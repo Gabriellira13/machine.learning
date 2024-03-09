@@ -1,0 +1,21 @@
+{
+    "Inputs": {
+      "data": [
+        {
+          "day": 5,
+          "mnth": 12,
+          "year": 2015,
+          "season": 4,
+          "holiday": 0,
+          "weekday": 2,
+          "workingday": 1,
+          "weathersit": 6,
+          "temp": 0.0,
+          "atemp": 0.0,
+          "hum": 0.0,
+          "windspeed": 0.0
+        }
+      ]
+    },
+    "GlobalParameters": 0.0
+  }
